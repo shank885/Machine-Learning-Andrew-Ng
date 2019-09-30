@@ -6,7 +6,7 @@ This repository contains all the programming assignmets, quizzes, and lecture ma
 * [Quizzes](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Quizzes)
 ## Programming Assignments Description
 * [EX - 1](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex1)
-* Implementing and visualizing linear regression using gradient descent as optimizer. (Accuracy) *
+_ Implementing and visualizing linear regression using gradient descent as optimizer. (Accuracy) _
 * [EX - 2](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex2)
 * Implementing and visualizing logistic regression using fminfunc as optimizer. (Training set accuracy: 89.0 %) *
 * [EX - 3](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex3)
