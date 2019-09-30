@@ -6,14 +6,37 @@ This repository contains all the programming assignmets, quizzes, and lecture ma
 * [Quizzes](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Quizzes)
 ## Programming Assignments Description
 * [EX - 1](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex1) : _Implementing and visualizing linear regression using gradient descent as optimizer. (Accuracy)_
+
 ![](/Visualizations/ex1.png)
+
 * [EX - 2](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex2) : *Implementing and visualizing logistic regression using fminfunc as optimizer. (Training set accuracy: 89.0 %)*
+
+![](/Visualizations/ex2.png)
+
 * [EX - 3](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex3) : *Implementing One vs All logistic regression.*
+
+![](/Visualizations/ex3.png)
+
 * [EX - 4](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex4) : *Implementing a neural net with some pre trained weights.*
+
+![](/Visualizations/ex4.png)
+
 * [EX - 5](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex5) : *Learning and tuning hyperparameters.*
-* [EX - 6](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex6) : *Implementing an linear SVM.*
+
+![](/Visualizations/ex5.png)
+
+* [EX - 6](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex6) : *Implementing an linear6SVM.*
+
+![](/Visualizations/ex6.png)
+
 * [EX - 7](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex7) : *Implementing a basic K-Means Clustering algorithm.*
+
+![](/Visualizations/ex7.png)
+
 * [EX - 8](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex8) : *Learning and visualizing testing parameters for a model.*
+
+![](/Visualizations/ex8.png)
+
 ## Lectures
 * [Lecture 1](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/blob/master/Lectures/Lecture1.pdf)
 * [Lecture 2](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/blob/master/Lectures/Lecture2.pdf)
