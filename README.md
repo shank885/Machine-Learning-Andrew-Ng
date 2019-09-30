@@ -6,13 +6,21 @@ This repository contains all the programming assignmets, quizzes, and lecture ma
 * [Quizzes](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Quizzes)
 ## Programming Assignments Description
 * [EX - 1](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex1)
+* Implementing and visualizing linear regression using gradient descent as optimizer. (Accuracy) *
 * [EX - 2](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex2)
+* Implementing and visualizing logistic regression using fminfunc as optimizer. (Training set accuracy: 89.0 %) *
 * [EX - 3](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex3)
+* Implementing One vs All logistic regression to classify handwritten numbers. (Training set accuracy: 95.0 %) *
 * [EX - 4](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex4)
+* Implementing a neural net with some pre trained weights on the same dataset as the previous problem using feedforward and backpropagation algorithm. *
 * [EX - 5](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex5)
+* Learning and tuning hyperparameters such as lambda for regularization, via cross validation. *
 * [EX - 6](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex6)
+* Implementing an linear SVM for random dataset using RBF(Radial Basis Function) *
 * [EX - 7](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex7)
+* Implementing a basic K-Means algorithm to cluster some unsupervised data. *
 * [EX - 8](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex8)
+* Learning and visualizing testing parameters for a model, such as F1 score, precision, accuracy, etc. *
 ## Lectures
 * [Lecture 1](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/blob/master/Lectures/Lecture1.pdf)
 * [Lecture 2](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/blob/master/Lectures/Lecture2.pdf)
