@@ -5,14 +5,14 @@ This repository contains all the programming assignmets, quizzes, and lecture ma
 * [Lectures](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Lectures)
 * [Quizzes](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Quizzes)
 ## Programming Assignments Description
-* [EX - 1](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex1)
-* [EX - 2](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex2)
-* [EX - 3](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex3)
-* [EX - 4](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex4)
-* [EX - 5](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex5)
-* [EX - 6](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex6)
-* [EX - 7](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex7)
-* [EX - 8](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex8)
+* [EX - 1](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex1) : _Implementing and visualizing linear regression using gradient descent as optimizer. (Accuracy)_
+* [EX - 2](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex2) : *Implementing and visualizing logistic regression using fminfunc as optimizer. (Training set accuracy: 89.0 %)*
+* [EX - 3](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex3) : *Implementing One vs All logistic regression.*
+* [EX - 4](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex4) : *Implementing a neural net with some pre trained weights.*
+* [EX - 5](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex5) : *Learning and tuning hyperparameters.*
+* [EX - 6](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex6) : *Implementing an linear SVM.*
+* [EX - 7](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex7) : *Implementing a basic K-Means Clustering algorithm.*
+* [EX - 8](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/tree/master/Assignments/machine-learning-ex8) : *Learning and visualizing testing parameters for a model.*
 ## Lectures
 * [Lecture 1](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/blob/master/Lectures/Lecture1.pdf)
 * [Lecture 2](https://github.com/SHANK885/Machine-Learning-Andrew-Ng/blob/master/Lectures/Lecture2.pdf)
